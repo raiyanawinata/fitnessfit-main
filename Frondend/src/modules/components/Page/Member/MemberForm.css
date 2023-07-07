@@ -1,0 +1,23 @@
+.akun{
+    margin-top: 8%;
+}
+
+.signup{
+    text-align: center;
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size: 300%;
+}
+
+.isi{
+    margin-top: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.sbmt{
+    margin-top: 2%;
+    margin-left: 44%;
+    font-family: 'Cambria';
+    font-weight: 400;
+}
